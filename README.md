@@ -1,3 +1,5 @@
+<p align="center"><b>Polski</b> | <a href="README.en.md">English</a></p>
+
 <p align="center"><img src="assets/hero.png" alt="GEM na IKE" width="700"/></p>
 
 <h1 align="center">GEM na IKE</h1>
